@@ -1,3 +1,2 @@
 # git-test
-Hello Odin!
-Test change!
+This is for completing Odin assignments that don't directly correspond to a specific repository.
