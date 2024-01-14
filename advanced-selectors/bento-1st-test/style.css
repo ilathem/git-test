@@ -1,0 +1,17 @@
+div {
+    padding: 2em;
+}
+
+.plate {
+    border: 2px solid black;
+}
+
+.bento {
+    border: 2px solid red;
+}
+
+.orange { border: 2px solid orange; }
+
+.bento:first-child {
+    background-color: lightblue;
+}
